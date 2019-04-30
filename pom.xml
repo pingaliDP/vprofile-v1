@@ -156,19 +156,5 @@
 		</plugin>
         </plugins>
     </build>
-	
-<build>
- <plugins>
- <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-         <artifactId>maven-war-plugin</artifactId>
-         <version>3.2.2</version>
- <configuration>
-         <outputDirectory>/home/nageshwar</outputDirectory>
-  </configuration>
-  </plugin>
-  </plugins>
-  <finalName>vprofile</finalName>
-</build>
 </project>
 
